@@ -16,6 +16,12 @@
 
 ### Detecção de Bordas - Canny
 <img src="bordas_detectadas.jpg" />
+<hr>
 
 ## Questão 02
 
+- <strong>Local: </strong> Vias públicas e estabelecimentos
+
+- <strong>Problema: </strong><i>Ferramenta de Auxílio à Deficientes Visuais em locais onde fosse impossibilitado o uso do Cão-guia</i>
+
+- <strong>Descrição: </strong>
