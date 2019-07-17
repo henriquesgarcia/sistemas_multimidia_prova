@@ -16,3 +16,6 @@
 
 ### Detecção de Bordas - Canny
 <img src="bordas_detectadas.jpg" />
+
+## Questão 02
+
